@@ -1,3 +1,12 @@
+Project for SWE Class
+
+npm install
+npm fix audit --force
+npm start
+
+Both on client and server
+
+
 #    Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
